@@ -1,5 +1,5 @@
 [package]
-name = "deno-markdown-wasm"
+name = "deno_markdown_wasm"
 description = "Deno WebAssembly module by Rust"
 version = "0.1.0"
 authors = ["linux_china <libing.chen@gmail.com>"]
