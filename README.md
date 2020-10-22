@@ -14,3 +14,4 @@ console.log(renderMarkdown("#h1"));
 # References
 
 * The `wasm-bindgen` Guide: https://rustwasm.github.io/docs/wasm-bindgen/
+* pulldown_cmark: Pull parser for CommonMark https://docs.rs/pulldown-cmark/0.8.0/pulldown_cmark/
