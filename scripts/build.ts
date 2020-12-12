@@ -1,6 +1,6 @@
-import {encode} from "https://deno.land/std@0.74.0/encoding/base64.ts";
+import {encode} from "https://deno.land/std@0.79.0/encoding/base64.ts";
 import {compress} from "https://deno.land/x/lz4@v0.1.2/mod.ts";
-import {minify} from "https://jspm.dev/terser@5.3.7";
+import {minify} from "https://jspm.dev/terser@5.5.1";
 
 const name = "deno_markdown_wasm";
 
